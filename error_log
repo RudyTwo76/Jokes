@@ -1,0 +1,4 @@
+[17-May-2019 07:33:08 America/Chicago] PHP Fatal error:  Call to a member function get_jokes() on null in /home2/rudytwo7/jokes.mcquiggin.ca/application/controllers/Jokes_list.php on line 23
+[17-May-2019 07:42:10 America/Chicago] PHP Fatal error:  Call to a member function get_jokes() on null in /home2/rudytwo7/jokes.mcquiggin.ca/application/controllers/Jokes_list.php on line 23
+[17-May-2019 07:42:14 America/Chicago] PHP Fatal error:  Call to a member function get_jokes() on null in /home2/rudytwo7/jokes.mcquiggin.ca/application/controllers/Jokes_list.php on line 23
+[17-May-2019 07:45:37 America/Chicago] PHP Fatal error:  Call to a member function get_jokes() on null in /home2/rudytwo7/jokes.mcquiggin.ca/application/controllers/Jokes_list.php on line 23
