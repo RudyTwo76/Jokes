@@ -14,4 +14,4 @@
 		</div>
 	</div>
 </div>
-<div id="Test_Container">T</div>
+<div id="Test_Container"><?php echo base_url(); ?></div>

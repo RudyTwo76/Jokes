@@ -10,7 +10,7 @@
 	<!--JSX Installer-->
 	<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script> 
 <!-- Load our React component. -->
-<script src="scripts/Test.js"></script>
+<script type="text/babel" src="<?php echo base_url(); ?>scripts/Test.js"></script>
 
 </body>
 </html>
